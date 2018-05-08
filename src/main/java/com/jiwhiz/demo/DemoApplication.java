@@ -1,8 +1,5 @@
 package com.jiwhiz.demo;
 
-
-import com.jiwhiz.demo.controller.DemoController;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
